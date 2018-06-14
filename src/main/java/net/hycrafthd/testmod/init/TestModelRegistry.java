@@ -1,6 +1,5 @@
-package net.hycrafthd.testmod.render;
+package net.hycrafthd.testmod.init;
 
-import net.hycrafthd.testmod.item.TestItems;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraftforge.client.model.ModelLoader;
 

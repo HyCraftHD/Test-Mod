@@ -1,6 +1,6 @@
 package net.hycrafthd.testmod.proxy;
 
-import net.hycrafthd.testmod.render.TestModelRegistry;
+import net.hycrafthd.testmod.init.TestModelRegistry;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
