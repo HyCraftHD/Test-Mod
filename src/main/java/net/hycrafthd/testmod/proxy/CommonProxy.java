@@ -9,7 +9,6 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 public class CommonProxy {
 
     public void preinit(FMLPreInitializationEvent event){
-        MinecraftForge.EVENT_BUS.register(TestItems.getInstance());
     }
 
     public void init(FMLInitializationEvent event){
