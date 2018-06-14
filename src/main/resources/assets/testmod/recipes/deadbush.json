@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DMD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dragon_egg"
+    },
+    "M": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "minecraft:deadbush"
+  }
+}

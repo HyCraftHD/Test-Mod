@@ -2,7 +2,7 @@ package net.hycrafthd.testmod;
 
 import static net.hycrafthd.testmod.TestConstants.*;
 
-import net.hycrafthd.testmod.net.hycrafthd.testmod.proxy.CommonProxy;
+import net.hycrafthd.testmod.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
