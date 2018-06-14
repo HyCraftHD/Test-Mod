@@ -1,13 +1,13 @@
 package net.hycrafthd.testmod;
 
-import static net.hycrafthd.testmod.TestConstants.*;
-
 import net.hycrafthd.testmod.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+
+import static net.hycrafthd.testmod.TestConstants.*;
 
 @Mod(modid = MODID, name = NAME, version = VERSION, acceptedMinecraftVersions = MCVERSION)
 public class TestMod {
